@@ -1,0 +1,13 @@
+{
+  "name": "stock-news-logger-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Stock Market News Logger",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
